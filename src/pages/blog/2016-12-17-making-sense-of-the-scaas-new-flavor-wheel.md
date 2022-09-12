@@ -1,33 +1,25 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: "Mario Kart "
 date: 2016-12-17T15:04:10.000Z
+description: |-
+  Que es mario kart?
+  Aqui te explico 
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/mobile_mariokarttour_screen_07_png_jpgcopy.0.jpg
 tags:
-  - flavor
-  - tasting
+  - mariokart
+  - nintendo
+  - racing
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/736212.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+El segundo videojuego de la saga fue hecho para [Nintendo 64](https://mario.fandom.com/es/wiki/Nintendo_64 "Nintendo 64") con el nombre *Mario Kart 64*. Fue el primer videojuego en incluir modelos 3D en los personajes y circuitos. Sin embardo la jugabilidad no cambiaba mucho con respecto a su antecesor. Incluía un modo de driblear para agarrar mejor las curvas, items nuevos, circuitos nuevos, y se remplazo al [Koopa Troopa](https://mario.fandom.com/es/wiki/Koopa_Troopa "Koopa Troopa") por [Wario](https://mario.fandom.com/es/wiki/Wario "Wario"). Además, el mapa que antes aparecía abajo en la pantalla fue eliminado y remplazado por una posición abajo a la derecha. Es considerado por muchos fans y críticos especializados como uno de los mejores videojuegos de la saga. Fue relanzado en la [Consola Virtual](https://mario.fandom.com/es/wiki/Consola_Virtual "Consola Virtual") por 1,000 Wii points.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Como se juega?
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+### Los jugadores 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+###### ***compiten montados en go-karts, automóviles, motos y quads a lo largo de una pista, estas pistas son todas diferentes a la anterior. Tocando cajas de items puedes obtener un item, el cual te puede ayudar en la carrera (ej: Champiñones) o volverla más difícil (ej: nube eléctrica). En gran parte de los circuitos a lo largo de los videojuegos consisten en tres vueltas y por llegada se clasifica a los jugadores.***
